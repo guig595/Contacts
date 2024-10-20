@@ -178,9 +178,9 @@ const newExecutiveContacts = [
   
   // Predefined contacts to be added under "Employee Contacts"
   const newEmployeeContacts = [
-    { name: "Asim Shah/Tasleem Shah", phone: "+92300-7870705", category: "Employee Contacts", subcategory: "None" },
+  //  { name: "Asim Shah/Tasleem Shah", phone: "+92300-7870705", category: "Employee Contacts", subcategory: "None" },
     { name: "Muhammad Ajmal", phone: "+92318-6837134", category: "Employee Contacts", subcategory: "None" },
-    { name: "Muhammad Ateeq", phone: "+92340-7488060", category: "Employee Contacts", subcategory: "None" },
+  //  { name: "Muhammad Ateeq", phone: "+92340-7488060", category: "Employee Contacts", subcategory: "None" },
     { name: "Waqas Ahmed Dhoon", phone: "+92306-9052240", category: "Employee Contacts", subcategory: "None" },
     { name: "Waqas Ahmed Jora", phone: "+92301-6067646", category: "Employee Contacts", subcategory: "None" },
     { name: "Muhammad Fawad Azam", phone: "+92304-8523826", category: "Employee Contacts", subcategory: "None" },
@@ -193,7 +193,7 @@ const newExecutiveContacts = [
     { name: "Muhammad Irfan", phone: "+92310-7878370", category: "Employee Contacts", subcategory: "None" },
     { name: "Muhammad Haris", phone: "+92309-0295583", category: "Employee Contacts", subcategory: "None" },
     { name: "Ahtesham", phone: "+92320-0956752", category: "Employee Contacts", subcategory: "None" },
-    { name: "Azmat Manager", phone: "+92333-7883090", category: "Employee Contacts", subcategory: "None" }
+    { name: "Azmat Manager2", phone: "+92333-7883090", category: "Employee Contacts", subcategory: "None" }
   ];
   
   // Predefined contacts to be added under "Drivers Contacts"
